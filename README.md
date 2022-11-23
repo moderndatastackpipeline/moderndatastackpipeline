@@ -20,6 +20,17 @@
  
 - Documentação do Metabase 	https://www.metabase.com/docs/latest/
 
+
+Este curso é oferecido pela Stack Academy
+
+Link para adquirir esse Curso: 
+
+https://stackacademy.com.br/
+
+Nosso Instagram: 
+
+https://www.instagram.com/stackacademy_/
+
 <!---
 moderndatastackpipeline/moderndatastackpipeline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
