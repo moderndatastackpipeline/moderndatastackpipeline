@@ -2,6 +2,8 @@
 
 - Link para Apresentação do Curso : https://docs.google.com/presentation/d/1Cs7QNBOLg78EmHg9NnVPuZlGrfdTD4DP30HQJ36n62Q/edit?usp=sharing
 
+- Link para os Datasets Utilizados: https://health.google.com/covid-19/open-data/raw-data
+
 - Repositório da Aplicação: https://github.com/moderndatastackpipeline/modern-data-stack
 
 - Repositório do Airbyte: https://github.com/moderndatastackpipeline/airbyte
