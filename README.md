@@ -23,7 +23,7 @@
 
 Este curso é oferecido pela Stack Academy
 
-Link para adquirir esse Curso: 
+Link para adquirir esse Curso e muitos Outros: 
 
 https://stackacademy.com.br/
 
